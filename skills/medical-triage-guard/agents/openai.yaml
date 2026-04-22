@@ -1,0 +1,4 @@
+interface:
+  display_name: "Medical Triage Guard"
+  short_description: "Implement and validate safe medical triage behavior in this repo"
+  default_prompt: "Use this skill when changing triage policy, red flags, safety guard, or triage service."
